@@ -1,0 +1,14 @@
+https://wiki.seeedstudio.com/Grove-EMG_Detector/#hardware-installation
+
+Driven RL Circuit
+https://www.youtube.com/watch?v=WpSSg3f72as
+https://www.youtube.com/watch?v=BsoXjCFPNb0
+
+Patrick Mercier on ECG 
+https://www.youtube.com/channel/UCpqkFvXUx4YUfx_LE8VCwZw?app=desktop
+
+Texas Istrument
+https://www.youtube.com/watch?v=nIeipbjleuY
+
+DIY ECG
+https://www.youtube.com/watch?v=AfirWls9Sys
