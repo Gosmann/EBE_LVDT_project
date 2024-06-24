@@ -1,5 +1,6 @@
 Circuit: * C:\users\gosmann\Documents\EBE\EBE_LVDT_project\simulations\sim1.asc
 
+Reducing mutual coupling coefficient from 1.08758 to 1.
 Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -38,6 +39,20 @@ Source Step = 98.1061%
 Source stepping succeeded in finding the operating point.
 
 .step x=-0.0025
+Heightened Def Con from 0.00138195 to 0.00138195
+Heightened Def Con from 0.00216665 ++++++++++++++++++++to 0.00216665
+Heightened Def Con from 0.00216665 +++++++++++++++++to 0.00216665
+Heightened Def Con from 0.00216665 +++++++++++++++to 0.00216665
+Heightened Def Con from 0.00216665 +++++++++++++to 0.00216665
+Heightened Def Con from 0.00316665 to 0.00316665
+Heightened Def Con from 0.00508193 to 0.00508193
+Heightened Def Con from 0.00748193 ++++++++++++++++++++to 0.00748193
+Heightened Def Con from 0.00748193 +++++++++++++++++to 0.00748193
+Heightened Def Con from 0.00748193 +++++++++++++to 0.00748193
+Heightened Def Con from 0.00998193 ++++++++++++++++++++to 0.00998193
+Heightened Def Con from 0.00998193 ++++++++++++++++++to 0.00998193
+Heightened Def Con from 0.00998193 ++++++++++++++++++to 0.00998194
+Heightened Def Con from 0.00998213 to 0.00998213
 .step x=-0.002
 .step x=-0.0015
 .step x=-0.001
@@ -49,20 +64,20 @@ Source stepping succeeded in finding the operating point.
 .step x=0.002
 .step x=0.0025
 
-Date: Mon Jun 17 23:00:13 2024
-Total elapsed time: 17.657 seconds.
+Date: Fri Jun 21 15:22:46 2024
+Total elapsed time: 120.096 seconds.
 
 tnom = 27
 temp = 27
-method = Gear
-totiter = 4436
-traniter = 2226
-tranpoints = 1114
-accept = 1080
-rejected = 34
-matrix size = 140
-fillins = 1084
-Thread vector: 50.3/21.3[3] 10.8/7.4[3] 11.0/8.6[3] 5.7/5.9[1]  2592/500
-Matrix Compiler1: 230.03 KB object code size  66.4/41.3/[33.1]
-Matrix Compiler2: 35.66 KB object code size  11.5/9.9/[6.1]
+method = trap
+totiter = 105043
+traniter = 102789
+tranpoints = 21599
+accept = 15921
+rejected = 5678
+matrix size = 258
+fillins = 1766
+Thread vector: 54.2/23.8[6] 19.0/11.1[6] 16.6/9.8[6] 7.7/6.4[3]  2592/500
+Matrix Compiler1: 288.49 KB object code size  95.6/57.4/[43.1]
+Matrix Compiler2: 59.62 KB object code size  21.3/18.0/[7.3]
 
